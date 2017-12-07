@@ -1,0 +1,18 @@
+{
+  "name": "edit-drama-corpus",
+  "main": "./lib/edit-drama-corpus",
+  "version": "0.0.1",
+  "description": "A package to support editing TEI files for QuaDramA",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "edit-drama-corpus:insert_rs"
+  },
+  "repository": "https://github.com/quadrama/edit-drama-corpus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

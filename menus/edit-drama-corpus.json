@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Insert <rs>",
+        "command": "edit-drama-corpus:insert_rs"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "edit-drama-corpus",
+          "submenu": [
+            {
+              "label": "Insert <rs>",
+              "command": "edit-drama-corpus:insert_rs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
